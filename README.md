@@ -8,4 +8,4 @@ HashSet:
 Maintains the characters currently in the window. If a duplicate is found, we slide the left pointer to remove characters until the duplicate is gone.
 
 maxLength:
-Keeps track of the longest valid substring found during the process.
+Keeps track of the longest valid substring found during the process.......
